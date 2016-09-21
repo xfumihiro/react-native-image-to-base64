@@ -1,0 +1,14 @@
+{
+  "name": "react-native-image-to-base64",
+  "version": "0.1.0",
+  "description": "React Native module to get Image's base64 string",
+  "keywords": [
+    "React-Native"
+  ],
+  "author": "Fumihiro Xue (xfumihiro)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xfumihiro/react-native-image-to-base64.git"
+  }
+}
